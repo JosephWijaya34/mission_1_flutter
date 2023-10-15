@@ -186,7 +186,7 @@ Makanan dan minuman adalah bagian penting dari kehidupan. Inilah mengapa kami in
               shape: const CircleBorder(),
               child: Icon(
                 Icons.favorite,
-                color: favorite ? Colors.red.shade900 : Colors.grey,
+                color: favorite ? Colors.red.shade900 : Colors.grey.shade400,
               ),
             ),
           ),
